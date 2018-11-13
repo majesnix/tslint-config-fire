@@ -1,0 +1,32 @@
+{
+	"name": "tslint-config-fire",
+	"version": "1.0.0",
+	"description": "TSLint shareable config",
+	"main": "tslint.json",
+	"author": "iCrawl <icrawltogo@gmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/iCrawl/tslint-config-fire.git"
+	},
+	"bugs": {
+		"url": "https://github.com/iCrawl/tslint-config-fire/issues"
+	},
+	"keywords": [
+		"tslintconfig",
+		"lint",
+		"linter",
+		"validate",
+		"typescript",
+		"ts"
+	],
+	"homepage": "https://github.com/iCrawl/tslint-config-fire#readme",
+	"dependencies": {},
+	"devDependencies": {
+		"tslint": "^5.11.0",
+		"typescript": "^3.1.6"
+	},
+	"engines": {
+		"typescript": "^3.0.0"
+	}
+}
