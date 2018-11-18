@@ -73,6 +73,7 @@
 		"deprecation": true,
 		"member-access": true,
 		"no-return-await": true,
-		"promise-function-async": true
+		"promise-function-async": true,
+		"whitespace": false
 	}
 }
