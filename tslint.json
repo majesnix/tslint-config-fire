@@ -46,7 +46,7 @@
 		"no-trailing-whitespace": true,
 		"one-variable-per-declaration": true,
 		"object-literal-key-quotes": [true, "consistent-as-needed"],
-		"quotemark": [true, "single", "jsx-single", "avoid-template", "avoid-escape"],
+		"quotemark": [true, "double", "jsx-double", "avoid-template", "avoid-escape"],
 		"semicolon": [true, "always"],
 		"object-literal-sort-keys": false,
 		"prefer-template": true,
